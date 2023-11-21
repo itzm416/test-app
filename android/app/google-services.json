@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807717050281",
+    "project_id": "parentsapp-a4acd",
+    "storage_bucket": "parentsapp-a4acd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807717050281:android:abc69e575ccd1143e116b8",
+        "android_client_info": {
+          "package_name": "com.minicoders.parents"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBP8rOWpUVCPWtBNVawOFoU8cG6fCaR1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
